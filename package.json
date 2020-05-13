@@ -1,12 +1,12 @@
 {
   "name": "posit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git@github.com:astrolet/posit.git"
+    "url": "git@github.com:astrolin/posit.git"
   },
-  "homepage": "https://github.com/astrolet/posit",
-  "author": "Orlin M Bozhinov <orlin@astrolet.net> (http://soundsapiens.com)",
+  "homepage": "https://github.com/astrolin/posit",
+  "author": "Orlin M Bozhinov <orlin@astrolet.net> (http://apotelesmatic.com)",
   "preferGlobal": true,
   "bin": { "posit" : "index.js" },
   "license": "MIT"

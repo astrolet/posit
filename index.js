@@ -2,4 +2,4 @@
 
 'use strict'
 
-console.log('Will respond with http://api.astrolet.net/posit results...');
+console.log('http://api.astrolin.org/'); //...
